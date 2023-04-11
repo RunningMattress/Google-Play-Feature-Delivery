@@ -1,0 +1,10 @@
+Play Feature Delivery/.idea
+Play Feature Delivery/Library
+Play Feature Delivery/Builds
+Play Feature Delivery/obj
+Play Feature Delivery/Temp
+Play Feature Delivery/UserSettings
+Play Feature Delivery/Logs
+
+*.sln
+*.csproj
